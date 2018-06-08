@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BMI_Calculator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/BMI_Calculator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
